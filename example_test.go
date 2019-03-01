@@ -24,7 +24,7 @@ import (
 	"errors"
 	"fmt"
 
-	"go.uber.org/multierr"
+	"github.com/Beeketing/multierr"
 )
 
 func ExampleCombine() {
