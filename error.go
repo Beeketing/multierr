@@ -83,7 +83,7 @@
 // 	} else {
 // 		errors = []error{err}
 // 	}
-package multierr // import "go.uber.org/multierr"
+package multierr // import "github.com/Beeketing/multierr"
 
 import (
 	"bytes"
@@ -92,7 +92,7 @@ import (
 	"strings"
 	"sync"
 
-	"go.uber.org/atomic"
+	"github.com/Beeketing/atomic"
 )
 
 var (

@@ -1,7 +1,7 @@
 hash: b53b5e9a84b9cb3cc4b2d0499e23da2feca1eec318ce9bb717ecf35bf24bf221
 updated: 2017-04-10T13:34:45.671678062-07:00
 imports:
-- name: go.uber.org/atomic
+- name: github.com/Beeketing/atomic
   version: 3b8db5e93c4c02efbc313e17b2e796b0914a01fb
 testImports:
 - name: github.com/davecgh/go-spew
